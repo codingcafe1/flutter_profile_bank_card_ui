@@ -1,6 +1,6 @@
-# flutter_calender_events_app
+# flutter_bank_id_card_app
 
-Flutter 2 Android, Web & iOS Calender & Events App from Coding Cafe
+Flutter 2 Android, Web & iOS Bank ID Card Profile App from Coding Cafe
 
 ## Join Complete Course Here
 
